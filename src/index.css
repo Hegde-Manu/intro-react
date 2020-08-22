@@ -1,13 +1,1029 @@
-body {
+.mediaViewInfo {
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Web_1920__1;
+}
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Web_1920__1 {
+  position: absolute;
+  width: 1920px;
+  height: 3361px;
+  background-color: rgba(77,161,250,1);
+  overflow: hidden;
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Toonofy-Logo_1 {
+  position: absolute;
+  width: 224.5px;
+  height: 45.1px;
+  left: 135px;
+  top: 37.59px;
+  overflow: visible;
+}
+#HOME {
+  left: 1125px;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  height: 27px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0,82,170,1);
+}
+#OLYMPIADS {
+  left: 1226px;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 109px;
+  height: 27px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0,82,170,1);
+}
+#YLP {
+  left: 1375px;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 33px;
+  height: 27px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255,255,255,1);
+}
+#WORKSHEETS {
+  left: 1450px;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  height: 27px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0,82,170,1);
+}
+#VIDEOS {
+  left: 1617px;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 69px;
+  height: 27px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0,82,170,1);
+}
+#LOGIN {
+  left: 1728px;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  height: 27px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0,82,170,1);
+}
+#Know_why_parents_love_our_Year {
+  left: 335px;
+  top: 143px;
+  position: absolute;
+  overflow: visible;
+  width: 1251px;
+  height: 79px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 58px;
+  color: rgba(228,228,228,1);
+}
+#map-animation-800x600-phone-00_r {
+  position: absolute;
+  width: 1651px;
+  height: 763px;
+  left: 135px;
+  top: 245px;
+  overflow: visible;
+}
+#map-animation-800x600-phone-00_p {
+  position: absolute;
+  width: 1651px;
+  height: 763px;
+  left: 135px;
+  top: 245px;
+  overflow: visible;
+}
+#map-animation-800x600-phone-00_r {
+  position: absolute;
+  width: 1651px;
+  height: 763px;
+  left: 135px;
+  top: 245px;
+  overflow: visible;
+}
+#map-animation-800x600-phone-00_r {
+  position: absolute;
+  width: 1651px;
+  height: 763px;
+  left: 135px;
+  top: 245px;
+  overflow: visible;
+}
+#Icon_ionic-logo-youtube {
+  fill: rgba(252,34,34,1);
+}
+.Icon_ionic-logo-youtube {
+  filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.161));
+  overflow: visible;
+  position: absolute;
+  width: 176.22px;
+  height: 132.81px;
+  left: 887px;
+  top: 575px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Have_an_unlimited_access_to_ou {
+  left: 219px;
+  top: 1080px;
+  position: absolute;
+  overflow: visible;
+  width: 1483px;
+  height: 79px;
+  line-height: 75px;
+  margin-top: -8.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 58px;
+  color: rgba(228,228,228,1);
+}
+#Path_1 {
+  fill: rgba(52,133,214,1);
+  stroke: rgba(114,187,255,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_1 {
+  overflow: visible;
+  position: absolute;
+  width: 1651px;
+  height: 1229px;
+  left: 135px;
+  top: 1182px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Group_340 {
+  position: absolute;
+  width: 124.849px;
+  height: 124px;
+  left: 331px;
+  top: 1325px;
+  overflow: visible;
+}
+#SYLLABUS {
+  left: 319px;
+  top: 1461px;
+  position: absolute;
+  overflow: visible;
+  width: 143px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(228,228,228,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341 {
+  position: absolute;
+  width: 124.29px;
+  height: 124.29px;
+  left: 618px;
+  top: 1325px;
+  overflow: visible;
+}
+#CLASS {
+  left: 631.61px;
+  top: 1460.85px;
+  position: absolute;
+  overflow: visible;
+  width: 91px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(228,228,228,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_1 {
+  position: absolute;
+  width: 124px;
+  height: 124px;
+  left: 926.57px;
+  top: 1325px;
+  overflow: visible;
+}
+#OLYMPIADS_ {
+  left: 900px;
+  top: 1461px;
+  position: absolute;
+  overflow: visible;
+  width: 161px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_2 {
+  position: absolute;
+  width: 124.29px;
+  height: 124.29px;
+  left: 331.11px;
+  top: 1582.13px;
+  overflow: visible;
+}
+#POSTERS {
+  left: 323px;
+  top: 1717.97px;
+  position: absolute;
+  overflow: visible;
+  width: 129px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_591 {
+  position: absolute;
+  width: 195.562px;
+  height: 170.87px;
+  left: 580px;
+  top: 1582.13px;
+  overflow: visible;
+}
+#Group_592 {
+  position: absolute;
+  width: 124.718px;
+  height: 123.87px;
+  left: 921px;
+  top: 1582.13px;
+  overflow: visible;
+}
+#GAMES {
+  left: 931.21px;
+  top: 1718px;
+  position: absolute;
+  overflow: visible;
+  width: 99px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_3 {
+  position: absolute;
+  width: 117.12px;
+  height: 117.12px;
+  left: 332.39px;
+  top: 1839.25px;
+  overflow: visible;
+}
+#STORY_BOOKS {
+  left: 289px;
+  top: 1975.1px;
+  position: absolute;
+  overflow: visible;
+  width: 197px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_340_1 {
+  position: absolute;
+  width: 124.62px;
+  height: 124.62px;
+  left: 621px;
+  top: 1839.38px;
+  overflow: visible;
+}
+#MOCK_TEST {
+  left: 599px;
+  top: 1975px;
+  position: absolute;
+  overflow: visible;
+  width: 159px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_592_1 {
+  position: absolute;
+  width: 124.62px;
+  height: 124.62px;
+  left: 923.79px;
+  top: 1839.38px;
+  overflow: visible;
+}
+#WORKBOOKS {
+  left: 887px;
+  top: 1975px;
+  position: absolute;
+  overflow: visible;
+  width: 187px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_777_1 {
+  position: absolute;
+  width: 124.29px;
+  height: 124.29px;
+  left: 329px;
+  top: 2096.25px;
+  overflow: visible;
+}
+#REMEDIAL_PLAN {
+  left: 275px;
+  top: 2232.1px;
+  position: absolute;
+  overflow: visible;
+  width: 225px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#MCQs {
+  left: 638px;
+  top: 2232px;
+  position: absolute;
+  overflow: visible;
+  width: 77px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_340_2 {
+  position: absolute;
+  width: 124.62px;
+  height: 124.62px;
+  left: 619px;
+  top: 2096.38px;
+  overflow: visible;
+}
+#Group_592_2 {
+  position: absolute;
+  width: 124.62px;
+  height: 124.62px;
+  left: 923.79px;
+  top: 2096.38px;
+  overflow: visible;
+}
+#OLYMPIAD_BOOKS {
+  left: 856px;
+  top: 2232px;
+  position: absolute;
+  overflow: visible;
+  width: 249px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_582 {
+  position: absolute;
+  width: 124.849px;
+  height: 124px;
+  left: 1221.79px;
+  top: 1325px;
+  overflow: visible;
+}
+#SUBJECTS {
+  left: 1211px;
+  top: 1461px;
+  position: absolute;
+  overflow: visible;
+  width: 137px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_340_3 {
+  position: absolute;
+  width: 124.75px;
+  height: 124.75px;
+  left: 1221px;
+  top: 1582.25px;
+  overflow: visible;
+}
+#PUZZLES {
+  left: 1218px;
+  top: 1718px;
+  position: absolute;
+  overflow: visible;
+  width: 123px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_4 {
+  position: absolute;
+  width: 124.62px;
+  height: 124.62px;
+  left: 1220px;
+  top: 1839.38px;
+  overflow: visible;
+}
+#NCERT {
+  left: 1229px;
+  top: 1975px;
+  position: absolute;
+  overflow: visible;
+  width: 93px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_5 {
+  position: absolute;
+  width: 124.62px;
+  height: 124.62px;
+  left: 1224px;
+  top: 2096.38px;
+  overflow: visible;
+}
+#FLASHCARDS {
+  left: 1185px;
+  top: 2232px;
+  position: absolute;
+  overflow: visible;
+  width: 189px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_340_4 {
+  position: absolute;
+  width: 124.718px;
+  height: 123.87px;
+  left: 1494px;
+  top: 1325.13px;
+  overflow: visible;
+}
+#WORKSHEETS_br {
+  left: 1453px;
+  top: 1461px;
+  position: absolute;
+  overflow: visible;
+  width: 195px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_6 {
+  position: absolute;
+  width: 123.901px;
+  height: 124.75px;
+  left: 1495.57px;
+  top: 1582.25px;
+  overflow: visible;
+}
+#PRACTISE {
+  left: 1482px;
+  top: 1718px;
+  position: absolute;
+  overflow: visible;
+  width: 137px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_341_7 {
+  position: absolute;
+  width: 124.29px;
+  height: 124.29px;
+  left: 1493.9px;
+  top: 1839.38px;
+  overflow: visible;
+}
+#REPORTS {
+  left: 1486px;
+  top: 1975.23px;
+  position: absolute;
+  overflow: visible;
+  width: 129px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Group_592_3 {
+  position: absolute;
+  width: 124.75px;
+  height: 124.75px;
+  left: 1491px;
+  top: 2096.25px;
+  overflow: visible;
+}
+#VIDEOS_bx {
+  left: 1496.21px;
+  top: 2232px;
+  position: absolute;
+  overflow: visible;
+  width: 105px;
+  height: 35px;
+  line-height: 65px;
+  margin-top: -19.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: rgba(0,90,178,1);
+  letter-spacing: 0.012999999523162841px;
+}
+#Rectangle_1 {
+  fill: rgba(255,255,255,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1px;
+  height: 6px;
+  left: 15px;
+  top: 2604px;
+}
+#Rectangle_2 {
+  fill: rgba(129,190,255,1);
+}
+.Rectangle_2 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 3px;
+  left: 0px;
+  top: 2522px;
+}
+#Path_4 {
+  fill: rgba(0,0,0,0);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_4 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 0px;
+  top: 2522px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+  fill: rgba(55,125,200,1);
+  stroke: rgba(114,187,255,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_2 {
+  overflow: visible;
+  position: absolute;
+  width: 1651px;
+  height: 632px;
+  left: 135px;
+  top: 2577px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#COMPANY {
+  left: 201px;
+  top: 2641px;
+  position: absolute;
+  overflow: visible;
+  width: 113px;
+  height: 27px;
+  line-height: 50px;
+  margin-top: -15px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.02px;
+}
+#RESOURCES {
+  left: 781px;
+  top: 2641px;
+  position: absolute;
+  overflow: visible;
+  width: 137px;
+  height: 27px;
+  line-height: 50px;
+  margin-top: -15px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.02px;
+}
+#CLASSES {
+  left: 1289px;
+  top: 2641px;
+  position: absolute;
+  overflow: visible;
+  width: 102px;
+  height: 27px;
+  line-height: 50px;
+  margin-top: -15px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.02px;
+}
+#SOCIAL {
+  left: 1572px;
+  top: 2641px;
+  position: absolute;
+  overflow: visible;
+  width: 84px;
+  height: 27px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(0,0,0,1);
+}
+#Syllabus_Olympiads_Subjects_Wo {
+  left: 781px;
+  top: 2711px;
+  position: absolute;
+  overflow: visible;
+  width: 137px;
+  height: 434px;
+  line-height: 50px;
+  margin-top: -12.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+  fill: rgba(129,190,255,1);
+}
+.Rectangle_3 {
+  position: absolute;
+  overflow: visible;
+  width: 144px;
+  height: 1px;
+  left: 1568px;
+  top: 2681px;
+}
+#Path_3 {
+  fill: rgba(23,83,146,1);
+}
+.Path_3 {
+  overflow: visible;
+  position: absolute;
+  width: 144px;
+  height: 1px;
+  left: 1568px;
+  top: 2680px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_4 {
+  fill: rgba(129,190,255,1);
+}
+.Rectangle_4 {
+  position: absolute;
+  overflow: visible;
+  width: 144px;
+  height: 1px;
+  left: 1285px;
+  top: 2682px;
+}
+#Rectangle_5 {
+  fill: rgba(129,190,255,1);
+}
+.Rectangle_5 {
+  position: absolute;
+  overflow: visible;
+  width: 364px;
+  height: 1px;
+  left: 777px;
+  top: 2682px;
+}
+#Rectangle_6 {
+  fill: rgba(129,190,255,1);
+}
+.Rectangle_6 {
+  position: absolute;
+  overflow: visible;
+  width: 437px;
+  height: 1px;
+  left: 201px;
+  top: 2682px;
+}
+#Rectangle_7 {
+  fill: rgba(23,83,146,1);
+}
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 144px;
+  height: 1px;
+  left: 1285px;
+  top: 2681px;
+}
+#Rectangle_8 {
+  fill: rgba(23,83,146,1);
+}
+.Rectangle_8 {
+  position: absolute;
+  overflow: visible;
+  width: 437px;
+  height: 1px;
+  left: 201px;
+  top: 2681px;
+}
+#Rectangle_9 {
+  fill: rgba(23,83,146,1);
+}
+.Rectangle_9 {
+  position: absolute;
+  overflow: visible;
+  width: 364px;
+  height: 1px;
+  left: 777px;
+  top: 2681px;
+}
+#Path_5 {
+  fill: rgba(55,125,200,1);
+}
+.Path_5 {
+  overflow: visible;
+  position: absolute;
+  width: 1920px;
+  height: 3px;
+  left: 0px;
+  top: 2519px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Toonofy-Logo2x {
+  position: absolute;
+  width: 135.884px;
+  height: 27.54px;
+  left: 201px;
+  top: 2714.63px;
+  overflow: visible;
+}
+#Animation_based_International_ {
+  left: 201px;
+  top: 2759px;
+  position: absolute;
+  overflow: visible;
+  width: 395px;
+  height: 57px;
+  line-height: 30px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255,255,255,1);
+}
+#About_us__Products__Group_Comp {
+  left: 201px;
+  top: 2924px;
+  position: absolute;
+  overflow: visible;
+  width: 301px;
+  height: 300px;
+  line-height: 50px;
+  margin-top: -12.5px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(255,255,255,1);
+}
+#Puzzles_Story-books_Practice-T {
+  left: 987px;
+  top: 2711px;
+  position: absolute;
+  overflow: visible;
+  width: 159px;
+  height: 434px;
+  line-height: 50px;
+  margin-top: -12.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(255,255,255,1);
+}
+#Playgroup_Nursery_LKG_UKG_Clas {
+  left: 1289px;
+  top: 2711px;
+  position: absolute;
+  overflow: visible;
+  width: 115px;
+  height: 434px;
+  line-height: 50px;
+  margin-top: -12.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(255,255,255,1);
+}
+#Instagrm_Twitter_Facebook_Tumb {
+  left: 1572px;
+  top: 2711px;
+  position: absolute;
+  overflow: visible;
+  width: 113px;
+  height: 384px;
+  line-height: 50px;
+  margin-top: -12.5px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(255,255,255,1);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
